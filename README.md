@@ -2,7 +2,7 @@
 
 For more options and information see
 
-http://rpf.io/configtxtreadme
+http://rpf.io/configtxt
 
 Some settings may impact device functionality.
 
